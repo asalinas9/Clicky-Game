@@ -1,0 +1,62 @@
+[
+	{
+		"id": 1,
+		"image": "./public/img/Erik.jpeg",
+		"clicked": false
+	},
+	{
+		"id": 2,
+		"image": "./public/img/kelso.jpeg",
+		"clicked": false
+	},
+	{
+		"id": 3,
+		"image": "./public/img/donna.jpeg",
+		"clicked": false
+	},
+	{
+		"id": 4,
+		"image": "./public/img/steven.jpeg",
+		"clicked": false
+	},
+	{
+		"id": 5,
+		"image": "./public/img/fes.jpeg",
+		"clicked": false
+	},
+	{
+		"id": 6,
+		"image": "./public/img/jackie.jpeg",
+		"clicked": false
+	},
+	{
+		"id": 7,
+		"image": "./public/img/kittie.jpeg",
+		"clicked": false
+	},
+	{
+		"id": 8,
+		"image": "./public/img/red.jpeg",
+		"clicked": false
+	},
+	{
+		"id": 9,
+		"image": "./public/img/bob.jpeg",
+		"clicked": false
+	},
+	{
+		"id": 10,
+		"image": "./public/img/laurie.jpeg",
+		"clicked": false
+	},
+	{
+		"id": 11,
+		"image": "./public/img/leo.jpeg",
+		"clicked": false
+	},
+	{
+		"id": 12,
+		"image": "./public/img/midge.jpeg",
+		"clicked": false
+	}
+]
