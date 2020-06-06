@@ -7,7 +7,7 @@ import './App.css';
 
 let correctGuesses = 0;
 let bestScore = 0;
-let clickMessage = 'Click on a character to gain points! Click on the same one twice and you lose!';
+let clickMessage = 'Click on a character without repeating characters';
 
 class App extends Component {
 	// Setting this.state.matches to the matches json array
@@ -99,9 +99,9 @@ class App extends Component {
 			<Wrapper>
 				<Title>The Clicking Game</Title>
 
-				<h3 className="scoreSummary">{this.state.clickMessage}</h3>
+				<h3 className="scoreSummary bg-success text-white">{this.state.clickMessage}</h3>
 
-				<h3 className="scoreSummary card-header">
+				<h3 className="scoreSummary card-header bg-danger text-white">
 					Correct Guesses: {this.state.correctGuesses}
 					<br />
 					Best Score: {this.state.bestScore}
