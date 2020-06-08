@@ -7,7 +7,7 @@ import './App.css';
 
 let correctGuesses = 0;
 let bestScore = 0;
-let clickMessage = 'Click on a character without repeating characters';
+let clickMessage = 'Click on a character without repeating same person twice!';
 
 class App extends Component {
 	// Setting this.state.matches to the matches json array
