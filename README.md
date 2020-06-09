@@ -1,6 +1,6 @@
 # Clicky-Game
 
-[Link to page](https://secret-eyrie-74619.herokuapp.com/)
+[Link to page](https://asalinas9.github.io/Clicky-Game/)
 
 ## Instructions
 
