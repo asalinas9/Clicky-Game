@@ -1,6 +1,6 @@
 # Clicky-Game
 
-[Link to page](https://asalinas9.github.io/Clicky-Game/)
+[Github Page](https://asalinas9.github.io/Clicky-Game/)
 
 ## Instructions
 
